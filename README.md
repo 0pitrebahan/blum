@@ -74,7 +74,7 @@ socks5://user:pass@127.0.0.1:6969
    python -m pip install -r requirements.txt
    ```
 
-5. Edit / ubah file `data.txt`, masukkan data query ke dalam file `data.txt`. Anda bisa mendapatkan query anda dengan cara [Cara Mendapatkan Query](#cara-mendapatkan-query). Satu baris untuk 1 akun, jika anda ingin menambah akun ke-2 maka isi di baris yang baru.
+5. Edit / ubah file `data.txt`, masukkan data query ke dalam file `data.txt`. Anda bisa mendapatkan query anda dengan cara [[Cara Mendapatkan Query]](https://github.com/user-attachments/assets/e71ae5f9-6829-40ec-aff6-23fab370ceb5). Satu baris untuk 1 akun, jika anda ingin menambah akun ke-2 maka isi di baris yang baru.
 
 6. Jalankan program / scriptnya.
    ```
@@ -111,7 +111,7 @@ socks5://user:pass@127.0.0.1:6969
    python3 -m pip install -r requirements.txt
    ```
 
-5. Edit / ubah file `data.txt`, masukkan data query ke dalam file `data.txt`. Anda bisa mendapatkan query anda dengan cara [Cara Mendapatkan Query](#cara-mendapatkan-query). Satu baris untuk 1 akun, jika anda ingin menambah akun ke-2 maka isi di baris yang baru.
+5. Edit / ubah file `data.txt`, masukkan data query ke dalam file `data.txt`. Anda bisa mendapatkan query anda dengan cara [[Cara Mendapatkan Query]](https://github.com/user-attachments/assets/e71ae5f9-6829-40ec-aff6-23fab370ceb5). Satu baris untuk 1 akun, jika anda ingin menambah akun ke-2 maka isi di baris yang baru.
 
 6. Jalankan program / scriptnya. (pake screen)
    ```
@@ -160,7 +160,7 @@ socks5://user:pass@127.0.0.1:6969
    python -m pip install -r requirements.txt
    ```
 
-5. Edit / ubah file `data.txt`, masukkan data query ke dalam file `data.txt`. Anda bisa mendapatkan query anda dengan cara [Cara Mendapatkan Query](#cara-mendapatkan-query). Satu baris untuk 1 akun, jika anda ingin menambah akun ke-2 maka isi di baris yang baru.
+5. Edit / ubah file `data.txt`, masukkan data query ke dalam file `data.txt`. Anda bisa mendapatkan query anda dengan cara [[Cara Mendapatkan Query]](https://github.com/user-attachments/assets/e71ae5f9-6829-40ec-aff6-23fab370ceb5). Satu baris untuk 1 akun, jika anda ingin menambah akun ke-2 maka isi di baris yang baru.
 
 6. Jalankan program / scriptnya.
    ```
